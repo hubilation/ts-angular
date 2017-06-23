@@ -1,0 +1,9 @@
+C:\git\ts-angular\Section1Code\Section1Code\bin\Debug\netcoreapp1.1\Section1Code.deps.json
+C:\git\ts-angular\Section1Code\Section1Code\bin\Debug\netcoreapp1.1\Section1Code.runtimeconfig.json
+C:\git\ts-angular\Section1Code\Section1Code\bin\Debug\netcoreapp1.1\Section1Code.runtimeconfig.dev.json
+C:\git\ts-angular\Section1Code\Section1Code\bin\Debug\netcoreapp1.1\Section1Code.dll
+C:\git\ts-angular\Section1Code\Section1Code\bin\Debug\netcoreapp1.1\Section1Code.pdb
+C:\git\ts-angular\Section1Code\Section1Code\obj\Debug\netcoreapp1.1\Section1Code.csprojResolveAssemblyReference.cache
+C:\git\ts-angular\Section1Code\Section1Code\obj\Debug\netcoreapp1.1\Section1Code.AssemblyInfo.cs
+C:\git\ts-angular\Section1Code\Section1Code\obj\Debug\netcoreapp1.1\Section1Code.dll
+C:\git\ts-angular\Section1Code\Section1Code\obj\Debug\netcoreapp1.1\Section1Code.pdb

@@ -1,0 +1,9 @@
+C:\git\ts-angular\WebApplication24\bin\Debug\netcoreapp1.1\WebApplication24.deps.json
+C:\git\ts-angular\WebApplication24\bin\Debug\netcoreapp1.1\WebApplication24.runtimeconfig.json
+C:\git\ts-angular\WebApplication24\bin\Debug\netcoreapp1.1\WebApplication24.runtimeconfig.dev.json
+C:\git\ts-angular\WebApplication24\obj\Debug\netcoreapp1.1\WebApplication24.csprojResolveAssemblyReference.cache
+C:\git\ts-angular\WebApplication24\bin\Debug\netcoreapp1.1\WebApplication24.dll
+C:\git\ts-angular\WebApplication24\bin\Debug\netcoreapp1.1\WebApplication24.pdb
+C:\git\ts-angular\WebApplication24\obj\Debug\netcoreapp1.1\WebApplication24.AssemblyInfo.cs
+C:\git\ts-angular\WebApplication24\obj\Debug\netcoreapp1.1\WebApplication24.dll
+C:\git\ts-angular\WebApplication24\obj\Debug\netcoreapp1.1\WebApplication24.pdb

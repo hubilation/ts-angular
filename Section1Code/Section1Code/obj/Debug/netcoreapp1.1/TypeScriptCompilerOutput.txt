@@ -1,0 +1,8 @@
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js.map
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js.map
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js.map
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js
+C:\git\ts-angular\Section1Code\Section1Code\wwwroot\file.js.map
